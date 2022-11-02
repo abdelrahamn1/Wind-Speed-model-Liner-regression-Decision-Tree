@@ -10,11 +10,19 @@ The dataset contains 6574 instances of daily averaged responses from an array of
 
 ## Attribute Information
 DATE (YYYY-MM-DD)
+
 WIND: Average wind speed [knots]
+
 IND: First indicator value
+
 RAIN: Precipitation Amount (mm)
+
 IND.1: Second indicator value
+
 T.MAX: Maximum Temperature (°C)
+
 IND.2: Third indicator value
+
 T.MIN: Minimum Temperature (°C)
+
 T.MIN.G: 09utc Grass Minimum Temperature (°C)
